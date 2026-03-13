@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Antonella 👋
 
-<!--
-**antomontalvan/antomontalvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Systems Programming Student at UCES  
+💻 Interested in software development and programming  
+🌎 Buenos Aires, Argentina  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- C
+- C++
+- Java
+- PHP
+- SQL
+- HTML / CSS / Bootstrap
+- Git & GitHub
+
+---
+
+## Projects
+
+🎮 **WakeRush**  
+Video game developed with Godot.  
+A wakeboard-inspired game where the player must avoid obstacles and survive as long as possible.
+
+---
+
+## Contact
+
+📧 anto.montalvan14@gmail.com  
+🔗 LinkedIn (www.linkedin.com/in/antonella-montalvan)
+
+--------------------------------------------------------------------------------
+# Hola, soy Antonella 👋
+
+🎓 Estudiante de Programación de Sistemas en UCES
+💻 Interesada en el desarrollo de software y la programación
+🌎 Buenos Aires, Argentina
+
+---
+
+## Tecnologías
+
+* C
+* C++
+* Java
+* PHP
+* SQL
+* HTML / CSS / Bootstrap
+* Git y GitHub
+
+---
+
+## Proyectos
+
+🎮 **WakeRush**
+Videojuego desarrollado con Godot.
+Un juego inspirado en el wakeboard donde el jugador debe evitar obstáculos y sobrevivir el mayor tiempo posible.
+
+---
+
+## Contacto
+
+📧 anto.montalvan14@gmail.com
+🔗 LinkedIn (http://www.linkedin.com/in/antonella-montalvan)
