@@ -10,7 +10,7 @@
 
 - C
 - C++
-- Java
+- JavaScript
 - PHP
 - SQL
 - HTML / CSS / Bootstrap
@@ -44,7 +44,7 @@ A wakeboard-inspired game where the player must avoid obstacles and survive as l
 
 * C
 * C++
-* Java
+* JavaScript
 * PHP
 * SQL
 * HTML / CSS / Bootstrap
