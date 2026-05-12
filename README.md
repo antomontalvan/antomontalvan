@@ -18,14 +18,6 @@
 
 ---
 
-## Projects
-
-🎮 **WakeRush**  
-Video game developed with Godot.  
-A wakeboard-inspired game where the player must avoid obstacles and survive as long as possible.
-
----
-
 ## Contact
 
 📧 anto.montalvan14@gmail.com  
@@ -49,14 +41,6 @@ A wakeboard-inspired game where the player must avoid obstacles and survive as l
 * SQL
 * HTML / CSS / Bootstrap
 * Git y GitHub
-
----
-
-## Proyectos
-
-🎮 **WakeRush**
-Videojuego desarrollado con Godot.
-Un juego inspirado en el wakeboard donde el jugador debe evitar obstáculos y sobrevivir el mayor tiempo posible.
 
 ---
 
